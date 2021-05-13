@@ -6,8 +6,7 @@ WorkTrack is an easy kanban styled simple management tool to manage and track pr
 
 Users will login or create a user.
 
-
-![image](https://user-images.githubusercontent.com/50694227/118141955-96f54700-b412-11eb-9a5f-5759d7934fca.png)
+![image](https://user-images.githubusercontent.com/50694227/118156966-a54b5f00-b422-11eb-9d13-84ca76c787e2.png)
 
 
 Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items.Source: Wikipedia
@@ -24,7 +23,7 @@ Some example:
     A blogger can keep track of the ideas and articles you will have to write on various blogs that follows and schedule publications.
     And more…
     
-![image](https://user-images.githubusercontent.com/50694227/118156407-fdce2c80-b421-11eb-94b5-ebc352acadec.png)
+![image](https://user-images.githubusercontent.com/50694227/118156849-8351dc80-b422-11eb-8070-b3841acf5c67.png)
 
 This project is made with Codeigniter 3.0 and code is very very simple.
 Compatibilty
