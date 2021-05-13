@@ -1,5 +1,5 @@
 # WorkTrack
-Work tack is an easy kanban styled simple management tool to manage and track project status.
+WorkTrack is an easy kanban styled simple management tool to manage and track project status.
 
 
 ![image](https://user-images.githubusercontent.com/50694227/118141730-5f869a80-b412-11eb-99ae-82559a068807.png)
