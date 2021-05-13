@@ -1,7 +1,7 @@
 # WorkTrack
 WorkTrack is an easy kanban styled simple management tool to manage and track project status.
 
-Check the website: <a href="http://www.worktrack.pubdeliver.com/" style="text-decoration: underline;"> <u> Demo WorkTrack</u> </a>
+Check the website: <a href="http://www.worktrack.pubdeliver.com/" style="text-decoration: underline;"> <u>WorkTrack Demo</u> </a>
 
 Admin Credentials:
 
