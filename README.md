@@ -30,6 +30,7 @@ Some example:
 ![image](https://user-images.githubusercontent.com/50694227/118156849-8351dc80-b422-11eb-8070-b3841acf5c67.png)
 
 This project is made with Codeigniter 3.0 and the code is very easy to understand.
+
 Compatibilty
 
 Compatible with all the latest versions of browsers, notably Google Chrome and Firefox.
