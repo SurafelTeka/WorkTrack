@@ -44,7 +44,7 @@ Compatible with all the latest versions of browsers, notably Google Chrome and F
 
 ChangeLog
 
-v.1.9 - 12/10/2018
+v.1.9
 - Codeigniter framework updated to last version
 - Fixed php 7.1+ compatibility
 - User permissions bug fixed
