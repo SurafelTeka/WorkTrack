@@ -1,7 +1,7 @@
 # WorkTrack
 WorkTrack is an easy kanban styled simple management tool to manage and track project status.
 
-Check the website: <a href="http://www.worktrack.pubdeliver.com/" add target="_blank" style="text-decoration: underline;"> <u>WorkTrack Demo</u> </a>
+Check the website: <a href="http://www.worktrack.pubdeliver.com/" target="_blank" style="text-decoration: underline;"> <u>WorkTrack Demo</u> </a>
 
 Admin Credentials:
 
@@ -15,7 +15,7 @@ Users will login or create a user.
 ![image](https://user-images.githubusercontent.com/50694227/118156966-a54b5f00-b422-11eb-9d13-84ca76c787e2.png)
 
 
-Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items. Source : <a href="https://en.wikipedia.org/wiki/Kanban_board" add target="_blank" style="text-decoration: underline;"> <u> Wikipedia</u> </a>
+Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items. Source : <a href="https://en.wikipedia.org/wiki/Kanban_board" target="_blank" style="text-decoration: underline;"> <u> Wikipedia</u> </a>
 
 
 
