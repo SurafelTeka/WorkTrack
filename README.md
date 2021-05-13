@@ -10,7 +10,7 @@ Users will login or create a user.
 ![image](https://user-images.githubusercontent.com/50694227/118156966-a54b5f00-b422-11eb-9d13-84ca76c787e2.png)
 
 
-Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items.Source : <a href="https://en.wikipedia.org/wiki/Kanban_board" style="text-decoration: underline;"> <u> Wikipedia</u> </a>
+Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items. Source : <a href="https://en.wikipedia.org/wiki/Kanban_board" style="text-decoration: underline;"> <u> Wikipedia</u> </a>
 
 
 
@@ -19,7 +19,7 @@ Who uses a kanban task board?
 Anyone can use a task board … Here are some examples: freelancer, developer and everyday people.
 Why uses a kanban task board?
 
-Because it solves so many daily problems and organizes most of your life and your work.
+Because it solves so many daily problems and organizes most of your life activities.
 
 Some example:
 
@@ -29,11 +29,10 @@ Some example:
     
 ![image](https://user-images.githubusercontent.com/50694227/118156849-8351dc80-b422-11eb-8070-b3841acf5c67.png)
 
-This project is made with Codeigniter 3.0 and code is very very simple.
+This project is made with Codeigniter 3.0 and the code is very easy to understand.
 Compatibilty
 
-Compatible with all the latest versions of browsers, but the favorites are: Google Chrome or Firefox.
-Video Tutorial
+Compatible with all the latest versions of browsers, notably Google Chrome and Firefox.
 
 
 
