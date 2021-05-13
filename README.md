@@ -10,7 +10,9 @@ Users will login or create a user.
 ![image](https://user-images.githubusercontent.com/50694227/118156966-a54b5f00-b422-11eb-9d13-84ca76c787e2.png)
 
 
-Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items.Source: Wikipedia
+Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items.Source : <a href="https://en.wikipedia.org/wiki/Kanban_board" style="text-decoration: underline;"> <u> Wikipedia</u> </a>
+
+
 
 Who uses a kanban task board?
 
@@ -21,9 +23,9 @@ Because it solves so many daily problems and organizes most of your life and you
 
 Some example:
 
-    A mom can write a shopping list, when to buy books for the children and when it expires the dog vaccine.
+    A mom can write a shopping list, when to buy books for the children and when the dog vaccine expires.
     A blogger can keep track of the ideas and articles you will have to write on various blogs that follows and schedule publications.
-    And more…
+    And many more…
     
 ![image](https://user-images.githubusercontent.com/50694227/118156849-8351dc80-b422-11eb-8070-b3841acf5c67.png)
 
@@ -49,7 +51,7 @@ v1.5
 - Added Background opacity option
 - Added Mail notification on new task
 - Added SMTP mail configuration settings
-- Added ToDo List fo every task
+- Added ToDo List for every task
 - Fixed time spent counts
 - Fixed Responsive drag option
 - Fixed Security bugs
