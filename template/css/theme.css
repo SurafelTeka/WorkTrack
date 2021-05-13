@@ -1,0 +1,387 @@
+
+body {
+    font-family:Montserrat;
+    padding-top:50px;
+}
+
+.separator {
+    margin-left:10px;
+    margin-right:10px;
+}
+.board-footer {
+    height:40px;
+    width:100%;
+    color: #fafafa;
+    position:fixed;
+    bottom:0px;
+    left: 0px;
+    padding: 10px 80px 10px 80px;
+}
+.drag_options {
+    text-align:center;
+    width: 100%;
+    height:220px;
+    position: fixed;
+    bottom: -10px;
+    left:0px;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+34,000000+87&0+0,0.65+95 */
+    background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.23) 34%, rgba(0,0,0,0.59) 87%, rgba(0,0,0,0.65) 95%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0.23) 34%,rgba(0,0,0,0.59) 87%,rgba(0,0,0,0.65) 95%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.23) 34%,rgba(0,0,0,0.59) 87%,rgba(0,0,0,0.65) 95%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 ); /* IE6-9 */
+}
+
+.darg_options_container {
+    margin:0 auto;
+    width: 100%;
+}
+.drag_options .icon {
+    width:50%;
+    height:150px;
+}
+.icon_bin {
+    background: url('../../images/bin.png') no-repeat;
+    background-position: center;
+
+}
+.icon_archive {
+    background: url('../../images/archive.png') no-repeat;
+    background-position: center;
+}
+.icon .li-placeholder {
+    background: #ff0000;
+    height:130px;
+    opacity:0.4;
+}
+.drag_options .icon:hover {
+
+}
+.drag_options .icon img {
+    width:100px;
+}
+.board-time-spent {
+    float:right;
+
+}
+.navbar-inverse  {
+    border-color:transparent;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #bdb8b8;
+}
+.navbar-inverse .navbar-brand  {
+    color: #ffd54f;
+}
+.admin_name  {
+    color: #eeeeee!important;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover  {
+    color: #ffffff;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+.label {
+    font-size:100%!important;
+}
+
+.danger_date {
+    color:#ff0000
+}
+.timer_task_title {
+    font-weight:100;
+    margin-right:20px;
+ }
+.pause_button {
+    width:20px;
+    cursor:pointer;
+}
+.container {
+    width:100%;
+
+}
+.plus_button {
+    width: 15px;
+    cursor: pointer;
+    opacity: 0.4;
+    margin-left: 10px;
+    vertical-align: text-top;
+    padding-top: 2px;
+}
+
+.bin_container {
+    position:absolute;
+    bottom:0;
+    left:0;
+    height:200px;
+    width:100%;
+    background:#fafafa;
+    display:none;
+}
+@media (min-width: 992px) {
+    .column {
+        height: 92vh;
+        padding: 0 !important;
+        overflow-y:auto;
+        overflow-x:inherit;
+    }
+}
+.column {
+    /*border: #ecf0f1 dotted 0.1em;*/
+    padding-right:30px;
+    padding-bottom:20px;
+    border-left:none;
+    cursor:pointer;
+}
+.column:first-child {
+    /*border-left: #ecf0f1 dotted 0.1em;*/
+}
+
+.portlet {
+    box-shadow: 2px 2px 5px #666666;
+    margin: 0.9em;
+    padding: 0.3em;
+    cursor: pointer;
+    background-color:#fafafa;
+    border-right: solid 1px #eeeeee;
+    border-top: solid 1px #eeeeee;
+    border-bottom: solid 1px #eeeeee;
+}
+
+.portlet-header {
+    padding: 0.2em 0.5em;
+    position: relative;
+    padding-right: 30px;
+    min-height: 40px;
+}
+
+.portlet-toggle {
+
+}
+
+.action_button {
+    position: absolute;
+    top: 50%;
+    right: 6px;
+    margin-top: -10px;
+}
+
+.action_button img {
+    width:20px;
+    cursor:pointer;
+}
+
+.portlet-content {
+    padding: 0.4em;
+    font-size:12px;
+}
+
+.ui-corner-all {
+    border-radius:inherit;
+}
+.portlet-date {
+    font-size: 10px;
+    color: #8ba8af;
+    display: block;
+    margin-top: 6px;
+}
+
+.portlet-placeholder {
+    /*border: 1px dotted black;*/
+    margin: 1em 1em 1em 1em;
+    height: 50px;
+}
+
+.li-placeholder {
+    border: 1px dotted white;
+    margin: 1em;
+    height: 20px;
+    min-width: 100px;
+}
+.rotate {
+    -ms-transform: rotate(5deg); /* IE 9 */
+    -webkit-transform: rotate(5deg); /* Chrome, Safari, Opera */
+    transform: rotate(5deg);
+}
+
+.col-container {
+    /*border: #999999 solid 0.5em;*/
+    display: block;
+}
+
+.column-header {
+    color: #fafafa;
+    text-align: center;
+    width: 100%;
+    padding: 0.6em;
+    margin-bottom: 10px;
+    font-size:15px;
+    text-transform: uppercase;
+
+    height:40px;
+}
+
+.attachments_body {
+    font-size: 0.9em;
+
+}
+.attachments_body > tr > td {
+    vertical-align:middle !important;
+}
+.delete_attachment {
+    cursor: pointer;
+}
+#dropzone_form {
+    background: url('../../images/dropzone.png') no-repeat center center;
+}
+.dropzone_error {
+    color: #ff0000;
+}
+.tab-pane {
+    background-color: #fafafa;
+}
+.tab-content {
+    min-height:400px;
+}
+.tab-content .row {
+    margin:0px;
+}
+.tab-content h2,h3 {
+    margin-top:0px;
+    padding-top:30px;
+}
+.nav-tabs li a {
+    color:#000000;
+}
+.form-group.row {
+    padding:14px;
+    border-bottom: #cccccc solid 1px;
+}
+.form-group button {
+    margin: 0 auto;
+}
+
+/* *************************************** TO DO LIST ***************************************** /
+/* Style the list items */
+.to_do ul {
+    padding: 0;
+    margin-bottom: 20px;
+}
+.to_do ul li {
+    list-style-type:none;
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    transition: 0.2s;
+    /* make the list items unselectable */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Set all odd list items to a different color (zebra-stripes) */
+.to_do ul li:nth-child(odd) {
+    background: #f9f9f9;
+}
+
+/* Darker background-color on hover */
+.to_do ul li:hover {
+    background: #ddd;
+}
+
+/* When clicked on, add a background color and strike out text */
+.to_do ul li.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
+
+/* Add a "checked" mark when clicked on */
+.to_do ul li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 10px;
+    left: 16px;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+}
+
+/* Style the close button */
+.to_do .close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px 12px 16px;
+}
+
+.to_do .close:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+/* Style the header */
+.to_do .header {
+    color: white;
+    text-align: center;
+}
+
+/* Clear floats after the header */
+.to_do .header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Style the input */
+.to_do input {
+    border: none;
+    width: 75%;
+    padding: 10px;
+    float: left;
+
+    color: #333333;
+}
+
+/* Style the "Add" button */
+.to_do .addBtn {
+    padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.to_do .addBtn:hover {
+    background-color: #bbb;
+}
+
+.float{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:60px;
+    right:40px;
+    background-color:#E53935;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+    margin-top:22px;
+}
+
