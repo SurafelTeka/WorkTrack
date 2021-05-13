@@ -11,6 +11,7 @@ Users will login or create a user.
 
 
 Kanban boards are perceived as a variation on traditional kanban cards. Instead of the signal cards that represent demand or capacity, the board utilizes magnets, plastic chips, colored washers or sticky notes to represent work items.Source: Wikipedia
+
 Who uses a kanban task board?
 
 Anyone can use a task board … Here are some examples: freelancer, developer and everyday people.
