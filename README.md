@@ -64,19 +64,19 @@ v1.5
 
 
 v.1.1
-Add multi-user support
-Add sharing boards to another user
-Add multi-upload attachment on task
-Bug fixing mobile version
-Add "remember me" on login
-Add "Move to another column" when edit task
-Add Archive task
-Add drag to Archive or Bin
-Add User permissions
-Add American date format
-Fixed 7 or more columns
-Change php session from file to database
-General bug-fixing
+- Add multi-user support
+- Add sharing boards to another user
+- Add multi-upload attachment on task
+- Bug fixing mobile version
+- Add "remember me" on login
+- Add "Move to another column" when edit task
+- Add Archive task
+- Add drag to Archive or Bin
+- Add User permissions
+- Add American date format
+- Fixed 7 or more columns
+- Change php session from file to database
+- General bug-fixing
 
 
 
