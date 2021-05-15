@@ -129,12 +129,12 @@
                                     <label class="col-sm-5 col-form-label"><?php echo e('Permissions', true); ?></label>
                                     <div class="col-sm-6">
                                         <select name="user_permissions">
-                                            <option value="0">Admin</option>
+                                         
                                             <option value="10">Normal user</option>
                                             <option value="20">Read-only user</option>
                                         </select>
                                         <ul style="padding-left:0;margin-top:20px;list-style-type: none">
-                                            <li><strong>Admin</strong> Super user</li>
+                                   
                                             <li><strong>Normal</strong>: can create task but can't create/edit boards, columns and users</li>
                                             <li><strong>Read-only</strong>: can only read task but can drag task</li>
                                         </ul>
