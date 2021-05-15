@@ -5,8 +5,8 @@ Check the website: <a href="http://www.worktrack.pubdeliver.com/" target="_blank
 
 Admin Credentials:
 
-- Email: admin@gmail.com
-- Password: admin
+- Email: User@gmail.com
+- Password: user
 
 ![image](https://user-images.githubusercontent.com/50694227/118141730-5f869a80-b412-11eb-99ae-82559a068807.png)
 
